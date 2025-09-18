@@ -2,7 +2,7 @@
 
 Hey , I really don't know where this coding journey will take me , but I love the ride <br/>
 Right now, working with Typescript , Vuejs, python . 
-Currently learning Data Structure and algorithms to boost myproblem solving skills.
+Currently learning Data Structure and algorithms to boost my problem solving skills.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kushwahaharsh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkushwaha7044@gmail.com) 
@@ -14,6 +14,10 @@ Currently learning Data Structure and algorithms to boost myproblem solving skil
  
  
 
+
+# Github stats:
+
+![](https://github-readme-stats.vercel.app/api?username=HK-HARSH001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
  <!--
