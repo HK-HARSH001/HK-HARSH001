@@ -17,7 +17,7 @@ Currently learning Data Structure and algorithms to boost my problem solving ski
 
 # Github stats:
 
-![](https://github-readme-stats.vercel.app/api?username=HK-HARSH001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HK-HARSH001&show_icons=true&theme=radical)
 
 
  <!--
