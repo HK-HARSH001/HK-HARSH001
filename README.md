@@ -23,6 +23,9 @@ Currently learning Data Structure and algorithms to boost my problem solving ski
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HK-HARSH001&theme=tokyonight&hide_border=false)<br/>
 
 
+[![](https://visitcount.itsvg.in/api?id=HK-HARSH001&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
  <!--
 **HK-HARSH001/HK-HARSH001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
