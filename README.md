@@ -1,7 +1,7 @@
 ## ✨ About Me :
 
 Hey , I really don't know where this coding journey will take me , but I love the ride <br/>
-Right now, working with Typescript , Vuejs, python . 
+Right now, working with Python , Javascript , Java . 
 Currently learning Data Structure and algorithms to boost my problem solving skills.
 
 # 🌐 Socials:
